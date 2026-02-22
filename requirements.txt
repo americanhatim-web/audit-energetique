@@ -1,1 +1,6 @@
-flask
+streamlit
+google-generativeai
+Pillow
+json
+os
+datetime
